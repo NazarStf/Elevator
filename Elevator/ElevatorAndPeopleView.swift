@@ -39,11 +39,6 @@ struct ElevatorAndPeopleView: View {
 					.frame(maxWidth: geo.size.width - 0, maxHeight: geo.size.height - 280)
 					.shadow(color: .black, radius: 30, x: 5, y: 5)
 					.offset(x: -80, y: 265)
-				
-				
-				
-				
-				
 				//MARK: - ADD THE DOORS
 				HStack {
 					Image("leftDoor").resizable()
