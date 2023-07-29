@@ -15,6 +15,7 @@
 		7469C4A62A75206C005EB8B7 /* elevatorChime.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 7469C4A52A75206C005EB8B7 /* elevatorChime.m4a */; };
 		7469C4A82A75208D005EB8B7 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C4A72A75208D005EB8B7 /* DataModel.swift */; };
 		7469C4AA2A7521CB005EB8B7 /* PlaySound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C4A92A7521CB005EB8B7 /* PlaySound.swift */; };
+		7469C4AC2A752259005EB8B7 /* ElevatorAndPeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C4AB2A752259005EB8B7 /* ElevatorAndPeopleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7469C4A52A75206C005EB8B7 /* elevatorChime.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = elevatorChime.m4a; sourceTree = "<group>"; };
 		7469C4A72A75208D005EB8B7 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		7469C4A92A7521CB005EB8B7 /* PlaySound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+		7469C4AB2A752259005EB8B7 /* ElevatorAndPeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevatorAndPeopleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				7469C4952A752019005EB8B7 /* ElevatorApp.swift */,
 				7469C4972A752019005EB8B7 /* ContentView.swift */,
+				7469C4AB2A752259005EB8B7 /* ElevatorAndPeopleView.swift */,
 				7469C4A72A75208D005EB8B7 /* DataModel.swift */,
 				7469C4A92A7521CB005EB8B7 /* PlaySound.swift */,
 				7469C4A32A75205C005EB8B7 /* doorsOpenClose.m4a */,
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7469C4AC2A752259005EB8B7 /* ElevatorAndPeopleView.swift in Sources */,
 				7469C4982A752019005EB8B7 /* ContentView.swift in Sources */,
 				7469C4AA2A7521CB005EB8B7 /* PlaySound.swift in Sources */,
 				7469C4962A752019005EB8B7 /* ElevatorApp.swift in Sources */,
